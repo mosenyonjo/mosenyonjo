@@ -1,22 +1,19 @@
-<img align="centre" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="600" height="320" />
-<br>
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="600" height="320" />
 
-### hey there, I’m @tech-prime5 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there, I’m @tech-prime5 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I am a passionate self-taught full stack developer and a freelance software engineer from London. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+I am a passionate self-taught full stack developer and a freelance software engineer from London. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 - 👀 I’m interested in Backend as well as frontend development.
-- 🌱 I’m currently learning anything interesting
-- 💞️ I’m looking to collaborate on any new technologies
-- 💼 any freelance work? do reach, ✨ [email](mailto:mosenyonjo5k@gmail.com) :) ✨
-- 💬 ask me about anything, i am happy to help;
+- 🌱 I’m currently learning anything interesting.
+- 💞️ I’m looking to collaborate on any new technologies.
+- 💼 Any freelance work? Do reach, ✨ [email](mailto:mosenyonjo5k@gmail.com) :) ✨
+- 💬 Ask me about anything, I am happy to help.
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
+If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 <a href="https://www.buymeacoffee.com/mosenyonjo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
 
 ### Connect with me:
 
@@ -27,21 +24,10 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-
 ----------------------------------------------------------------------------------------------------------
 
-<a href="https://discord.gg/3wawyq5D">
-  <img align="left" alt="tech-prime5's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/Mo_Talent">
-  <img align="left" alt="tech-prime5 | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="tech-prime5's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="tech-prime5's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
+<a href="https://discord.gg/3wawyq5D"><img align="left" alt="tech-prime5's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a>
+<a href="https://twitter.com/Mo_Talent"><img align="left" alt="tech-prime5 | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
