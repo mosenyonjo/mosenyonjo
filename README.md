@@ -20,6 +20,10 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - Collaborating on any new technologies
 - Freelance work
 
+## Tools
+- Git, GitHub, Visual Studio Code, Adobe Photoshop, Figma
+
+
  💼 ** Any freelance work? Do reach @, ✨ [📧 email](mailto:mosenyonjo5k@gmail.com) :) ✨**
  💬 ** Ask me about anything, I am happy to help.**
 
@@ -40,5 +44,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈 <br> <
 <br> <br>
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=mosenyonjo.visitor-badge&left_color=red&right_color=green) 
+<br>
+[![mosenyonjo GitHub stats](https://github-readme-stats.vercel.app/api?username=mosenyonjo&show_icons=true&theme=radical)](https://github.com/mosenyonjo/github-readme-stats)
 
 <br />
