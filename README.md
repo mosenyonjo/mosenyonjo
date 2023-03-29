@@ -10,7 +10,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 👀 I’m interested in Backend as well as frontend development.
 - 🌱 I’m currently learning anything interesting.
 - 💞️ I’m looking to collaborate on any new technologies.
-- 💼 Any freelance work? Do reach, ✨ [email](mailto:mosenyonjo5k@gmail.com) :) ✨
+- 💼 Any freelance work? Do reach @, ✨ [📧 email](mailto:mosenyonjo5k@gmail.com) :) ✨
 - 💬 Ask me about anything, I am happy to help.
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈 <br> <br>
@@ -24,7 +24,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈 <br> <
 <a href="https://discord.gg/3wawyq5D"><img align="left" alt="tech-prime5's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a>
 <a href="https://twitter.com/Mo_Talent"><img align="left" alt="tech-prime5 | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a>
 
-
+<br /> 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=mosenyonjo.visitor-badge&left_color=red&right_color=green) 
 
 <br />
