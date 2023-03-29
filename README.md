@@ -19,18 +19,17 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈 <br> <
 ### Connect with me: 
 <br /> 
 
+<a href="https://discord.gg/3wawyq5D"><img align="left" alt="mosenyonjo Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a>
+
+<a href="https://twitter.com/Mo_Talent"><img align="left" alt="mosenyonjo | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a>
+
+<a href="https://twitter.com/Mo_Talent"><img align="left" alt="mo-senyonjo youtube | youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" /></a>
+
+<a href="https://twitter.com/Mo_Talent"><img align="left" alt="mo-senyonjo github | github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" /></a>
 
 
-<a href="https://discord.gg/3wawyq5D"><img align="left" alt="tech-prime5's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a>
-<a href="https://twitter.com/Mo_Talent"><img align="left" alt="tech-prime5 | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a>
+<br> 
 
-<br /> 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=mosenyonjo.visitor-badge&left_color=red&right_color=green) 
 
 <br />
-
-[website]: https://codeSTACKr.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
