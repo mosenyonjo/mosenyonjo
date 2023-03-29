@@ -1,6 +1,7 @@
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="600" height="320" />
+<img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="600" height="320" />
 
-<br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 ### Hey there, 
 I’m @mosenyonjo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
@@ -26,12 +27,11 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈 <br> <
 
 <a href="https://twitter.com/Mo_Talent"><img align="left" alt="mo-senyonjo youtube | youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" /></a>
 
-<a href="https://twitter.com/Mo_Talent"><img align="left" alt="mo-senyonjo github | github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" /></a>
+<a href="https://github.com/mosenyonjo"><img align="left" alt="mo-senyonjo github | github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" /></a>
 
 
 <br> 
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=mosenyonjo.visitor-badge&left_color=red&right_color=green) 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=mosenyonjo.visitor-badge)
 
 <br />
